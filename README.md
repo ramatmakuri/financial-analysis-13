@@ -1,4 +1,4 @@
-# Basic VC Funding Analysis using Neural Networks
+# Venture capital funding analysis using neural networks
 
 In this assignment, financial Python programming skills will be used with machine learning and neural netwroks to predict whether a startup will be successful using a binary classifier model. 
 
