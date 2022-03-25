@@ -1,2 +1,2 @@
-# financial-analystics-13
+# financial-analysis-13
 Neural Networks
